@@ -1,2 +1,1 @@
-# .github
-CoreLabs Presentation 🔥 🚀
+# CoreLabs Presentation 🔥 🚀
